@@ -8,4 +8,4 @@ In the project directory, you can run:
 
 ### `video till 39:08`
 
-Video link [https://youtu.be/9DDX3US3kss](ClickHere) to view it in the browser.
+Video link: [Click here](https://youtu.be/9DDX3US3kss) to view it in the browser.

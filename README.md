@@ -6,6 +6,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-### `video till 56:00`
+### `video till 1:22:00`
 
 Video link: [Click here](https://youtu.be/9DDX3US3kss) to view it in the browser.

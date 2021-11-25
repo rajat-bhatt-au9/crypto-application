@@ -5,7 +5,7 @@ import {
   Navbar,
   Homepage,
   Exchanges,
-  Crypocurrencies,
+  Cryptocurrencies,
   CryptoDetails,
   News,
 } from "./components";
@@ -27,8 +27,8 @@ const App = () => {
               <Route exact path="/exchanges">
                 <Exchanges />
               </Route>
-              <Route exact path="/crypocurrencies">
-                <Crypocurrencies />
+              <Route exact path="/cryptocurrencies">
+                <Cryptocurrencies />
               </Route>
               <Route exact path="/crypto/:coinId">
                 <CryptoDetails />
